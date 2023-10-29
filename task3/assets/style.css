@@ -1,0 +1,19 @@
+body {
+	font-size: 18px;
+}
+
+h1 {
+	font-size: 3.5rem;
+	font-weight: bold;
+}
+
+#text {
+	font-weight: bold;
+	margin: auto;
+}
+
+#button {
+	background-color: rgb(63, 97, 15);
+	color: white;
+	margin-top: 10px;
+}
